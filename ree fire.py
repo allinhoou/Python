@@ -19,4 +19,4 @@ else:
 
     elif(menor):
         print("Você errou!! o seu chute foi menor que o numero secreto")
-        print("Fim de jogo")
+        print("Fim de jogo,  Feito pelo allan")
